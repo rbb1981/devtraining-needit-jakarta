@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="std_change_template">
+    <std_change_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <link_element/>
+        <name>Test</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Test</short_description>
+        <show_on_template_bar>false</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>std_change_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 11:39:56</sys_created_on>
+        <sys_id>a20b83e5db2213006d4d5c00cf9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>std_change_template_a20b83e5db2213006d4d5c00cf9619c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 11:39:56</sys_updated_on>
+        <table>change_request</table>
+        <template>short_description=Test^description=Describe what you plan to do^implementation_plan=List the steps in order of completion that will be worked through when implementing this change.&#13;
+&#13;
+Note who will perform each step and whether there are dependencies&#13;
+			between steps.^backout_plan=Describe the steps you will take to revert the change to its pre-implementation state.&#13;
+&#13;
+At what point during the implementation will you take the decision to&#13;
+			backout your change?&#13;
+&#13;
+			Does your change window include time to backout if you need&#13;
+			to?^test_plan=Explain what testing you have done or will do prior to implementation that gives you confidence this change will be successful.&#13;
+&#13;
+Describe the tests that will be carried out after implementation to confirm&#13;
+			that the change has been successful.^assignment_group=287ebd7da9fe198100f92cc8d1d2154e^justification=safsa^risk_impact_analysis=asfsaf^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </std_change_template>
+</record_update>
